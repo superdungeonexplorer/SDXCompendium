@@ -1,0 +1,61 @@
+# Commercially licensed plugins
+js/mdb.min.js
+js/colio.in.js
+css/mdb.min.css
+
+# Development files
+cardcreator.php
+consul.php
+arcade.php
+img/cardcreator/
+js/cardcreator.js
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows files
+*.cab
+*.msi
+*.msm
+*.msp
+*.zip
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+SDXCompendium.zip
